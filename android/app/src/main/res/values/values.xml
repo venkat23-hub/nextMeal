@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">178609034746</string>
+    <string name="google_api_key" translatable="false">AIzaSyDy5TU1lYQRlsrEpTPYoGCpb6ai6LR6rMk</string>
+    <string name="google_app_id" translatable="false">1:178609034746:android:876ccdffa7650004e04043</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDy5TU1lYQRlsrEpTPYoGCpb6ai6LR6rMk</string>
+    <string name="project_id" translatable="false">otp-firebase-89bbb</string>
+</resources>

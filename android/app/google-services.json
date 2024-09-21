@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178609034746",
+    "project_id": "otp-firebase-89bbb",
+    "storage_bucket": "otp-firebase-89bbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178609034746:android:876ccdffa7650004e04043",
+        "android_client_info": {
+          "package_name": "com.mindslate.nextmeal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5TU1lYQRlsrEpTPYoGCpb6ai6LR6rMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
